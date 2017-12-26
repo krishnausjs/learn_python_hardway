@@ -13,7 +13,7 @@ for fruit in fruits:
 #also we can go through mixed lists too
 #notice we have to use %r since we don't know wha'ts in it
 for i in change:
-	print "I got %r" % fruit
+	print "I got %r" % i
 
 #we can also build lists, first start with an empty one
 elements = []
